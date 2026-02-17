@@ -1,8 +1,10 @@
-📦 Supply Chain Analysis
+##📦 Supply Chain Analysis
+
 
 
 💡 Project Idea
 (To be defined — will be added after project scoping and stakeholder alignment.)
+
 
 
 👥 Team Members
@@ -11,6 +13,7 @@
 3. Anas Saeed
 4. Zeyad Ashraf
 5. Khaled Ahmed
+
 
 
 🗺️ Project Plan
@@ -51,7 +54,8 @@ Phase 5 — Visualization Dashboard, Final Presentation & Technical Report
 - Business insights summary
 - Final presentation slides
 - Technical documentation
-- 
+
+
 
 🎯 Roles & Responsibilities
 
@@ -60,6 +64,7 @@ Phase 5 — Visualization Dashboard, Final Presentation & Technical Report
 - EDA & Statistical Analysis	/ Anas Saeed
 - Forecasting Models	/ Zeyad Ashraf
 - Dashboard & Reporting	/ Khaled Ahmed
+
 
 
 📊 KPIs & Metrics for Project Success
@@ -75,26 +80,12 @@ Phase 5 — Visualization Dashboard, Final Presentation & Technical Report
 - Insight quality & actionability
   
 
+
 👨‍🏫 Instructor
 
 Abdelrahman Ashour
 
 
-📁 Project Files Structure
-
-Supply-Chain-Analysis/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-├── scripts/
-├── dashboards/
-├── reports/
-│
-├── README.md
-└── requirements.txt
 
 
 🔧 Tools & Technologies (Planned)
