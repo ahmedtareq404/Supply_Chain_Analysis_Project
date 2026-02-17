@@ -114,7 +114,7 @@
 - Git & GitHub
 - Canva
 - MS Word
-- 
+ 
 &nbsp;
 &nbsp;
 
