@@ -4,14 +4,15 @@
 &nbsp;
 &nbsp;
 
-💡 Project Idea
+## *💡 Project Idea*
+&nbsp;
 (To be defined — will be added after project scoping and stakeholder alignment.)
 
 &nbsp;
 &nbsp;
 
 
-👥 Team Members
+## *👥 Team Members*
 
 1. Ahmed Tareq
 2. Mohamed Omar
@@ -23,7 +24,7 @@
 &nbsp;
 &nbsp;
 
-🗺️ Project Plan
+## *🗺️ Project Plan*
 
 Phase 1 — Problem Definition & Data Collection
 - Define business problem and objectives
@@ -66,7 +67,7 @@ Phase 5 — Visualization Dashboard, Final Presentation & Technical Report
 &nbsp;
 &nbsp;
 
-🎯 Roles & Responsibilities
+## *🎯 Roles & Responsibilities*
 
 - Problem Definition	/ Ahmed Tareq
 - Data Cleaning & ETL	/ Mohamed Omar
@@ -78,7 +79,7 @@ Phase 5 — Visualization Dashboard, Final Presentation & Technical Report
 &nbsp;
 &nbsp;
 
-📊 KPIs & Metrics for Project Success
+## *📊 KPIs & Metrics for Project Success*
 
 - Data completeness %
 - Data accuracy score
@@ -94,7 +95,7 @@ Phase 5 — Visualization Dashboard, Final Presentation & Technical Report
 &nbsp;
 
 
-👨‍🏫 Instructor
+## *👨‍🏫 Instructor*
 
 - Abdelrahman Ashour
 
@@ -103,7 +104,7 @@ Phase 5 — Visualization Dashboard, Final Presentation & Technical Report
 &nbsp;
 &nbsp;
 
-🔧 Tools & Technologies (Planned)
+## *🔧 Tools & Technologies (Planned)*
 
 - SQL
 - Python (Pandas, NumPy, Matplotlib, Scikit-learn)
