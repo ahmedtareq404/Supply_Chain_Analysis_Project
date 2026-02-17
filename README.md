@@ -114,3 +114,9 @@
 - Git & GitHub
 - Canva
 - MS Word
+- 
+&nbsp;
+&nbsp;
+
+## *📝 License*
+This project is for educational purposes.
