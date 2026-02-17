@@ -1,4 +1,5 @@
-##📦 Supply Chain Analysis
+📦 Supply Chain Analysis
+
 
 
 
@@ -7,12 +8,15 @@
 
 
 
+
 👥 Team Members
+
 1. Ahmed Tareq
 2. Mohamed Omar
 3. Anas Saeed
 4. Zeyad Ashraf
 5. Khaled Ahmed
+
 
 
 
@@ -57,6 +61,7 @@ Phase 5 — Visualization Dashboard, Final Presentation & Technical Report
 
 
 
+
 🎯 Roles & Responsibilities
 
 - Problem Definition	/ Ahmed Tareq
@@ -64,6 +69,7 @@ Phase 5 — Visualization Dashboard, Final Presentation & Technical Report
 - EDA & Statistical Analysis	/ Anas Saeed
 - Forecasting Models	/ Zeyad Ashraf
 - Dashboard & Reporting	/ Khaled Ahmed
+
 
 
 
@@ -81,9 +87,11 @@ Phase 5 — Visualization Dashboard, Final Presentation & Technical Report
   
 
 
+
 👨‍🏫 Instructor
 
-Abdelrahman Ashour
+- Abdelrahman Ashour
+
 
 
 
