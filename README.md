@@ -26,13 +26,15 @@
 
 ## *🗺️ Project Plan*
 
-Phase 1 — Problem Definition & Data Collection
+**Phase 1 — Problem Definition & Data Collection**
+
 - Define business problem and objectives
 - Identify key supply chain questions
 - Gather dataset(s) and supporting documentation
 - Validate data sources
 
-Phase 2 — Data Preprocessing & Cleaning (ETL)
+**Phase 2 — Data Preprocessing & Cleaning (ETL)**
+
 - Data extraction
 - Data quality assessment
 - Handle missing values
@@ -40,7 +42,7 @@ Phase 2 — Data Preprocessing & Cleaning (ETL)
 - Remove duplicates and inconsistencies
 - Transform and structure tables
 
-Phase 3 — Dataset Analysis
+**Phase 3 — Dataset Analysis**
 
 - Exploratory Data Analysis (EDA)
 - Trend analysis
@@ -48,14 +50,14 @@ Phase 3 — Dataset Analysis
 - Pattern and anomaly detection
 - Root-cause insights
 
-Phase 4 — Forecasting Analysis
+**Phase 4 — Forecasting Analysis**
 
 - Demand / sales forecasting
 - Time series modeling
 - Scenario testing
 - Forecast validation
 
-Phase 5 — Visualization Dashboard, Final Presentation & Technical Report
+**Phase 5 — Visualization Dashboard, Final Presentation & Technical Report**
 
 - Build dashboard (Power BI / Excel / Tableau)
 - KPI tracking visuals
