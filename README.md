@@ -1,12 +1,14 @@
 📦 Supply Chain Analysis
 
 
-
+&nbsp;
+&nbsp;
 
 💡 Project Idea
 (To be defined — will be added after project scoping and stakeholder alignment.)
 
-
+&nbsp;
+&nbsp;
 
 
 👥 Team Members
@@ -18,7 +20,8 @@
 5. Khaled Ahmed
 
 
-
+&nbsp;
+&nbsp;
 
 🗺️ Project Plan
 
@@ -60,7 +63,8 @@ Phase 5 — Visualization Dashboard, Final Presentation & Technical Report
 - Technical documentation
 
 
-
+&nbsp;
+&nbsp;
 
 🎯 Roles & Responsibilities
 
@@ -71,7 +75,8 @@ Phase 5 — Visualization Dashboard, Final Presentation & Technical Report
 - Dashboard & Reporting	/ Khaled Ahmed
 
 
-
+&nbsp;
+&nbsp;
 
 📊 KPIs & Metrics for Project Success
 
@@ -85,7 +90,8 @@ Phase 5 — Visualization Dashboard, Final Presentation & Technical Report
 - Dashboard usability & clarity
 - Insight quality & actionability
   
-
+&nbsp;
+&nbsp;
 
 
 👨‍🏫 Instructor
@@ -94,7 +100,8 @@ Phase 5 — Visualization Dashboard, Final Presentation & Technical Report
 
 
 
-
+&nbsp;
+&nbsp;
 
 🔧 Tools & Technologies (Planned)
 
