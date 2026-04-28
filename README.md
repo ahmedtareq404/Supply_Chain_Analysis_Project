@@ -110,7 +110,8 @@ Abdelrahman Ashour
 
 - SQL
 - Python (Pandas, NumPy, Scikit-learn)
-- Power BI / Tableau
+- Power BI 
+- Tableau
 - Git & GitHub
 - Canva
 - MS Word
