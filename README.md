@@ -1,4 +1,4 @@
-## ** 📦 Cocoa Land Supply Chain Analytics **
+## **📦 Cocoa Land Supply Chain Analytics**
 
 
 &nbsp;
