@@ -109,7 +109,7 @@ Abdelrahman Ashour
 ## *🔧 Tools & Technologies (Planned)*
 
 - SQL
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- Python (Pandas, NumPy, Scikit-learn)
 - Power BI / Tableau
 - Git & GitHub
 - Canva
