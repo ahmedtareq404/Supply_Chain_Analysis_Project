@@ -99,7 +99,7 @@
 
 ## *👨‍🏫 Instructor*
 
-- Abdelrahman Ashour
+Abdelrahman Ashour
 
 
 
