@@ -126,6 +126,9 @@ You can find the full project files here:
 Google Colab Python Notebooks:
 https://drive.google.com/drive/folders/1v_kXkTEEXGfrRwR9tVCZCbIOX6fBkX-W?usp=drive_link
 
+Project ERD:
+https://github.com/ahmedtareq404/Cocoa_Land_Supply_Chain_Analytics_Project/blob/main/CocoaLand_ERD1.pdf
+
 Cleaned Dataset:
 https://github.com/ahmedtareq404/Supply_Chain_Analysis_Project/blob/main/Cleaned%20Dataset.rar
 
