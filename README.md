@@ -122,8 +122,14 @@ Abdelrahman Ashour
 
 You can find the full project files here:
 
+Google Colab Python Notebooks:
+https://drive.google.com/drive/folders/1v_kXkTEEXGfrRwR9tVCZCbIOX6fBkX-W?usp=drive_link
+
 Cleaned Dataset:
 https://github.com/ahmedtareq404/Supply_Chain_Analysis_Project/blob/main/Cleaned%20Dataset.rar
+
+SQL Files:
+
 
 &nbsp;
 &nbsp;
