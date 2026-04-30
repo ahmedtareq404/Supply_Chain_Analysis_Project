@@ -133,7 +133,7 @@ Cleaned Dataset:
 https://github.com/ahmedtareq404/Cocoa_Land_Supply_Chain_Analytics_Project/blob/main/CocoaLand_Dataset(Cleaned).rar
 
 SQL Files:
-https://github.com/ahmedtareq404/Cocoa_Land_Supply_Chain_Analytics_Project/blob/6aa7ea20b21aeaddb44df2e5321633413c2b916e/Cocoa%20Land%20Database%20Main.sql
+https://github.com/ahmedtareq404/Cocoa_Land_Supply_Chain_Analytics_Project/blob/main/Cocoa%20Land%20Database%20Main.sql
 
 
 &nbsp;
