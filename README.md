@@ -123,17 +123,14 @@ Abdelrahman Ashour
 
 You can find the full project files here:
 
-Google Colab Python Notebooks:
-https://drive.google.com/drive/folders/1v_kXkTEEXGfrRwR9tVCZCbIOX6fBkX-W?usp=drive_link
+[Google Colab Python Notebooks](https://drive.google.com/drive/folders/1v_kXkTEEXGfrRwR9tVCZCbIOX6fBkX-W?usp=drive_link)
 
-Project ERD:
-https://github.com/ahmedtareq404/Cocoa_Land_Supply_Chain_Analytics_Project/blob/main/CocoaLand_ERD1.pdf
+[Project ERD](https://github.com/ahmedtareq404/Cocoa_Land_Supply_Chain_Analytics_Project/blob/main/CocoaLand_ERD1.pdf)
 
-Cleaned Dataset:
-https://github.com/ahmedtareq404/Cocoa_Land_Supply_Chain_Analytics_Project/blob/main/CocoaLand_Dataset(Cleaned).rar
+[Cleaned Dataset](https://github.com/ahmedtareq404/Cocoa_Land_Supply_Chain_Analytics_Project/blob/main/CocoaLand_Dataset(Cleaned).rar)
 
-SQL Files:
-https://github.com/ahmedtareq404/Cocoa_Land_Supply_Chain_Analytics_Project/blob/main/Cocoa%20Land%20Database%20Main.sql
+[SQL Files](https://github.com/ahmedtareq404/Cocoa_Land_Supply_Chain_Analytics_Project/blob/main/Cocoa%20Land%20Database%20Main.sql)
+
 
 
 &nbsp;
