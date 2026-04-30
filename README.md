@@ -129,7 +129,7 @@ You can find the full project files here:
 
 [Cleaned Dataset](https://github.com/ahmedtareq404/Cocoa_Land_Supply_Chain_Analytics_Project/blob/main/CocoaLand_Dataset(Cleaned).rar)
 
-[SQL Files](https://github.com/ahmedtareq404/Cocoa_Land_Supply_Chain_Analytics_Project/blob/main/Cocoa%20Land%20Database%20Main.sql)
+[SQL Files](https://github.com/ahmedtareq404/Cocoa_Land_Supply_Chain_Analytics_Project/tree/main/SQL)
 
 
 
