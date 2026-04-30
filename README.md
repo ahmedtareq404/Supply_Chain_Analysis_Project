@@ -130,10 +130,10 @@ Project ERD:
 https://github.com/ahmedtareq404/Cocoa_Land_Supply_Chain_Analytics_Project/blob/main/CocoaLand_ERD1.pdf
 
 Cleaned Dataset:
-https://github.com/ahmedtareq404/Supply_Chain_Analysis_Project/blob/main/Cleaned%20Dataset.rar
+https://github.com/ahmedtareq404/Cocoa_Land_Supply_Chain_Analytics_Project/blob/main/CocoaLand_Dataset(Cleaned).rar
 
 SQL Files:
-https://github.com/ahmedtareq404/Supply_Chain_Analysis_Project/blob/main/Cocoa%20Land%20Database%20Main.sql
+
 
 &nbsp;
 &nbsp;
