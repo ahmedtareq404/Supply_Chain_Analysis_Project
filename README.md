@@ -14,7 +14,7 @@
 
 ## *👥 Team Members*
 
-1. Ahmed Tareq
+1. Ahmed Tareq (Team Leader)
 2. Mohamed Omar
 3. Anas Saeed
 4. Zeyad Ashraf
@@ -59,7 +59,7 @@
 
 **Phase 5 — Visualization Dashboard, Final Presentation & Technical Report**
 
-- Build dashboard (Power BI / Excel / Tableau)
+- Build dashboard (Power BI / Tableau)
 - KPI tracking visuals
 - Business insights summary
 - Final presentation slides
